@@ -1,4 +1,6 @@
-## Hi there 👋
+![Banner](banner.jpg)
+
+## Hi I'm Phillip 👋
 
 <!--
 **pkornberg/pkornberg** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
