@@ -1,6 +1,6 @@
 ## Hi, I'm Phillip 👋
 
-I’m a student and aspiring data scientist with a strong interest in sports analytics. I build models and tools that uncover patterns in sports, transform complex event data into intuitive visualizations, and apply probabilistic thinking to better understand team dynamics and player performance.
+I’m a student and aspiring data scientist with a strong interest in sports analytics. I build models and tools that uncover patterns in sports, transform complex event data into visualizations, and apply probabilistic methods to better understand player performance
 
 
 ## 🎯 Focus Areas
