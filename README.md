@@ -1,18 +1,18 @@
-![Banner](banner.jpg)
+## Hi, I'm Phillip 👋
 
-## Hi I'm Phillip 👋
+I’m a student and aspiring data scientist with a strong interest in sports analytics. I build models and tools that uncover patterns in sports, transform complex event data into intuitive visualizations, and apply probabilistic thinking to better understand team dynamics and player performance.
 
-<!--
-**pkornberg/pkornberg** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
-Here are some ideas to get you started:
+## 🎯 Focus Areas
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+**Passing Network Analysis**  
+Building network-based visualizations to analyze passing structures, spatial relationships, and team tactics.
+
+**Credit Assignment Models**  
+Developing frameworks to quantify player contributions across entire sequences of play, from buildup to final action.
+
+**Predictive Modeling**  
+Creating statistical models to forecast match outcomes and player performance using probabilistic methods.
+
+**Player Evaluation Metrics**  
+Designing advanced performance metrics that go beyond traditional statistics to better capture overall player impact.
